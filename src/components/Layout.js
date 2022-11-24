@@ -9,7 +9,7 @@ const Layout = () =>{
           <nav class="navbar navbar-expand-lg bg-dark">
   <div class="container-fluid">
   <Link to='/' className='link-nav'>
-    <a class="navbar-brand" id='link-nav'>Beco Diagonal</a>
+    <a class="navbar-brand" id='link-nav'>Prof. Thiago</a>
     </Link>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">

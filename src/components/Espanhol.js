@@ -1,6 +1,6 @@
-const Contato = () => {
+const Espanhol = () => {
     return <>
-            <h1 className="all">Contato</h1>
+            <h1 className="all">Espanhol</h1>
                 <h3 className="subtitle">Bem-vindos!</h3>
 
 
@@ -21,4 +21,4 @@ const Contato = () => {
     </>
 };
 
-export default Contato;
+export default Espanhol;

@@ -19,6 +19,16 @@ const Layout = () =>{
         </Link>
         </li>
         <li class="nav-item">
+        <Link to='/ingles' className='link-nav'>
+          <a class="nav-link" id='link-nav'>Inglês</a>
+          </Link>
+        </li>
+        <li class="nav-item">
+        <Link to='/espanhol' className='link-nav'>
+          <a class="nav-link" id='link-nav'>Espanhol</a>
+          </Link>
+        </li>
+        <li class="nav-item">
         <Link to='/sobre' className='link-nav'>
           <a class="nav-link" id='link-nav'>Sobre</a>
           </Link>

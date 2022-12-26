@@ -4,6 +4,17 @@ const Home = () => {
                 <h3 className="subtitle">Bem-vindos!</h3>
 
 
+<img src="https://cdn.wizard.com.br/wp-content/uploads/2020/06/03192344/palavras-em-ingles-britanico-e-ingles-americano-wizard.jpg"
+      className="img-home"/>
+
+
+
+
+
+
+
+
+
                 <div class="clearfix" className="texto">
   
   <p>

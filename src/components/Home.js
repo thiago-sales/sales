@@ -13,7 +13,7 @@ const Home = () => {
             <h5 class="card-title">Inglês</h5>
                 <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
                     <a class="btn btn-dark" target='_blank' href='/ingles'>
-                        Atividade 1
+                        Atividades
                     </a>
         </div>
     </div>

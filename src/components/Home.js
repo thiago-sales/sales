@@ -8,13 +8,6 @@ const Home = () => {
       className="img-home"/>
 
 
-
-
-
-
-
-
-
                 <div class="clearfix" className="texto">
   
   <p>

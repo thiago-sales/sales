@@ -25,8 +25,8 @@ const Home = () => {
         <div class="card-body">
             <h5 class="card-title">Espanhol</h5>
                 <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
-                    <a class="btn btn-dark" target='_blank' href='https://drive.google.com/file/d/1R4GScyufYgIJ-zz5tPGVVS7bUVMrAa1g/view?usp=share_link'>
-                        Atividade 2
+                    <a class="btn btn-dark" target='_blank' href='/espanhol'>
+                        Atividades
                     </a>
         </div>
     </div>
@@ -38,8 +38,8 @@ const Home = () => {
         <div class="card-body">
             <h5 class="card-title">Flauta Doce</h5>
                 <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
-                    <a class="btn btn-dark" target='_blank' href='https://drive.google.com/file/d/1R4GScyufYgIJ-zz5tPGVVS7bUVMrAa1g/view?usp=share_link'>
-                        Atividade 3
+                    <a class="btn btn-dark" target='_blank' href='#'>
+                        Atividades
                     </a>
         </div>
     </div>
@@ -51,8 +51,8 @@ const Home = () => {
         <div class="card-body">
             <h5 class="card-title">Canto</h5>
                 <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
-                    <a class="btn btn-dark" target='_blank' href='https://drive.google.com/file/d/1R4GScyufYgIJ-zz5tPGVVS7bUVMrAa1g/view?usp=share_link'>
-                        Atividade 4
+                    <a class="btn btn-dark" target='_blank' href='#'>
+                        Atividades
                     </a>
         </div>
     </div>

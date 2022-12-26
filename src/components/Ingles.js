@@ -24,7 +24,7 @@ const Ingles = () => {
         <div class="card-body">
             <h5 class="card-title">7ºANO</h5>
                 <p class="card-text">Para acessar as atividades da sua turma clique no botão abaixo.</p>
-                    <a class="btn btn-dark" target='_blank' href='https://drive.google.com/file/d/1R4GScyufYgIJ-zz5tPGVVS7bUVMrAa1g/view?usp=share_link'>
+                    <a class="btn btn-dark" target='_blank' href='https://drive.google.com/drive/folders/1msY6xFY-zu8wMwx1fVTOcIyR_s-OoO1T?usp=share_link'>
                         Atividades
                     </a>
         </div>
@@ -37,7 +37,7 @@ const Ingles = () => {
         <div class="card-body">
             <h5 class="card-title">8ºANO</h5>
                 <p class="card-text">Para acessar as atividades da sua turma clique no botão abaixo.</p>
-                    <a class="btn btn-dark" target='_blank' href='https://drive.google.com/file/d/1R4GScyufYgIJ-zz5tPGVVS7bUVMrAa1g/view?usp=share_link'>
+                    <a class="btn btn-dark" target='_blank' href='https://drive.google.com/drive/folders/1kt8tRnQTTVKQW_Au4PdQk6dWkwmo8Io4?usp=share_link'>
                         Atividades
                     </a>
         </div>
@@ -50,7 +50,7 @@ const Ingles = () => {
         <div class="card-body">
             <h5 class="card-title">9ºANO</h5>
                 <p class="card-text">Para acessar as atividades da sua turma clique no botão abaixo.</p>
-                    <a class="btn btn-dark" target='_blank' href='https://drive.google.com/file/d/1R4GScyufYgIJ-zz5tPGVVS7bUVMrAa1g/view?usp=share_link'>
+                    <a class="btn btn-dark" target='_blank' href='https://drive.google.com/drive/folders/1QFsTlT6P2RdHb-kqpkrDoJUzAtigXnCG?usp=share_link'>
                         Atividades
                     </a>
         </div>

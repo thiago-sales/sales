@@ -5,9 +5,7 @@ const Home = () => {
 
 
                 <div class="clearfix" className="texto">
-  <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_1024,h_724/https://localizationlab.com/wp-content/uploads/2021/05/IMAGE_TRANSLATION-8-1024x724.png" 
-    class="col-md-6 float-md-end mb-3 ms-md-3" alt="home imagem" />
-
+  
   <p>
     A paragraph of placeholder text. We're using it here to show the use of the clearfix class. We're adding quite a few meaningless phrases here to demonstrate how the columns interact here with the floated image.
   </p>

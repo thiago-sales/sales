@@ -4,24 +4,66 @@ const Home = () => {
                 <h3 className="subtitle">Bem-vindos!</h3>
 
 
-<img src="https://cdn.wizard.com.br/wp-content/uploads/2020/06/03192344/palavras-em-ingles-britanico-e-ingles-americano-wizard.jpg"
-      className="img-home"/>
+<div class="row row-cols-1 row-cols-md-3 g-4" id="espaco-card">
+  <div class="col">
+    <div class="card">
+      <img src="https://media.istockphoto.com/id/1370810363/photo/close-up-of-the-us-flag-waving-in-the-wind.jpg?s=612x612&w=0&k=20&c=X71eV4VGpZhO8lVpIsg7lMv4gJgGRvmz2szN8BmgsPs=" 
+        class="card-img-top" alt="..."/>
+        <div class="card-body">
+            <h5 class="card-title">6ºA - Atividade 1</h5>
+                <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
+                    <a class="btn btn-dark" target='_blank' href='https://drive.google.com/file/d/1R4GScyufYgIJ-zz5tPGVVS7bUVMrAa1g/view?usp=share_link'>
+                        Atividade 1
+                    </a>
+        </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="https://media.istockphoto.com/id/1370810363/photo/close-up-of-the-us-flag-waving-in-the-wind.jpg?s=612x612&w=0&k=20&c=X71eV4VGpZhO8lVpIsg7lMv4gJgGRvmz2szN8BmgsPs=" 
+        class="card-img-top" alt="..."/>
+        <div class="card-body">
+            <h5 class="card-title">6ºA - Atividade 1</h5>
+                <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
+                    <a class="btn btn-dark" target='_blank' href='https://drive.google.com/file/d/1R4GScyufYgIJ-zz5tPGVVS7bUVMrAa1g/view?usp=share_link'>
+                        Atividade 2
+                    </a>
+        </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="https://media.istockphoto.com/id/1370810363/photo/close-up-of-the-us-flag-waving-in-the-wind.jpg?s=612x612&w=0&k=20&c=X71eV4VGpZhO8lVpIsg7lMv4gJgGRvmz2szN8BmgsPs=" 
+        class="card-img-top" alt="..."/>
+        <div class="card-body">
+            <h5 class="card-title">6ºA - Atividade 1</h5>
+                <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
+                    <a class="btn btn-dark" target='_blank' href='https://drive.google.com/file/d/1R4GScyufYgIJ-zz5tPGVVS7bUVMrAa1g/view?usp=share_link'>
+                        Atividade 3
+                    </a>
+        </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="https://media.istockphoto.com/id/1370810363/photo/close-up-of-the-us-flag-waving-in-the-wind.jpg?s=612x612&w=0&k=20&c=X71eV4VGpZhO8lVpIsg7lMv4gJgGRvmz2szN8BmgsPs=" 
+        class="card-img-top" alt="..."/>
+        <div class="card-body">
+            <h5 class="card-title">6ºA - Atividade 1</h5>
+                <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
+                    <a class="btn btn-dark" target='_blank' href='https://drive.google.com/file/d/1R4GScyufYgIJ-zz5tPGVVS7bUVMrAa1g/view?usp=share_link'>
+                        Atividade 4
+                    </a>
+        </div>
+    </div>
+  </div>
 
 
-                <div class="clearfix" className="texto">
-  
-  <p>
-    A paragraph of placeholder text. We're using it here to show the use of the clearfix class. We're adding quite a few meaningless phrases here to demonstrate how the columns interact here with the floated image.
-  </p>
 
-  <p>
-    As you can see the paragraphs gracefully wrap around the floated image. Now imagine how this would look with some actual content in here, rather than just this boring placeholder text that goes on and on, but actually conveys no tangible information at. It simply takes up space and should not really be read.
-  </p>
-
-  <p>
-    And yet, here you are, still persevering in reading this placeholder text, hoping for some more insights, or some hidden easter egg of content. A joke, perhaps. Unfortunately, there's none of that here.
-  </p>
 </div>
+
+
+
     
     </>
 };

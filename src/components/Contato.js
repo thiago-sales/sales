@@ -1,7 +1,7 @@
 const Contato = () => {
     return <>
             <h1 className="all">Contato</h1>
-                <h3 className="subtitle">Bem-vindos!</h3>
+                <h3 className="subtitle">Você está na página Contato</h3>
 
 
                 

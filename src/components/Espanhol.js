@@ -1,7 +1,7 @@
 const Espanhol = () => {
     return <>
             <h1 className="all">Espanhol</h1>
-                <h3 className="subtitle">Bem-vindos!</h3>
+                <h3 className="subtitle">Você está na página Espanhol</h3>
 
 
                 

@@ -9,10 +9,10 @@ const Ingles = () => {
       <img src="https://media.istockphoto.com/id/1370810363/photo/close-up-of-the-us-flag-waving-in-the-wind.jpg?s=612x612&w=0&k=20&c=X71eV4VGpZhO8lVpIsg7lMv4gJgGRvmz2szN8BmgsPs=" 
         class="card-img-top" alt="..."/>
         <div class="card-body">
-            <h5 class="card-title">6ºA - Atividade 1</h5>
-                <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
+            <h5 class="card-title">6ºANO</h5>
+                <p class="card-text">Para acessar as atividades da sua turma clique no botão abaixo.</p>
                     <a class="btn btn-dark" target='_blank' href='https://drive.google.com/file/d/1R4GScyufYgIJ-zz5tPGVVS7bUVMrAa1g/view?usp=share_link'>
-                        Atividade 1
+                        Atividades
                     </a>
         </div>
     </div>
@@ -22,10 +22,10 @@ const Ingles = () => {
       <img src="https://media.istockphoto.com/id/1370810363/photo/close-up-of-the-us-flag-waving-in-the-wind.jpg?s=612x612&w=0&k=20&c=X71eV4VGpZhO8lVpIsg7lMv4gJgGRvmz2szN8BmgsPs=" 
         class="card-img-top" alt="..."/>
         <div class="card-body">
-            <h5 class="card-title">6ºA - Atividade 1</h5>
-                <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
+            <h5 class="card-title">7ºANO</h5>
+                <p class="card-text">Para acessar as atividades da sua turma clique no botão abaixo.</p>
                     <a class="btn btn-dark" target='_blank' href='https://drive.google.com/file/d/1R4GScyufYgIJ-zz5tPGVVS7bUVMrAa1g/view?usp=share_link'>
-                        Atividade 2
+                        Atividades
                     </a>
         </div>
     </div>
@@ -35,10 +35,10 @@ const Ingles = () => {
       <img src="https://media.istockphoto.com/id/1370810363/photo/close-up-of-the-us-flag-waving-in-the-wind.jpg?s=612x612&w=0&k=20&c=X71eV4VGpZhO8lVpIsg7lMv4gJgGRvmz2szN8BmgsPs=" 
         class="card-img-top" alt="..."/>
         <div class="card-body">
-            <h5 class="card-title">6ºA - Atividade 1</h5>
-                <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
+            <h5 class="card-title">8ºANO</h5>
+                <p class="card-text">Para acessar as atividades da sua turma clique no botão abaixo.</p>
                     <a class="btn btn-dark" target='_blank' href='https://drive.google.com/file/d/1R4GScyufYgIJ-zz5tPGVVS7bUVMrAa1g/view?usp=share_link'>
-                        Atividade 3
+                        Atividades
                     </a>
         </div>
     </div>
@@ -48,10 +48,10 @@ const Ingles = () => {
       <img src="https://media.istockphoto.com/id/1370810363/photo/close-up-of-the-us-flag-waving-in-the-wind.jpg?s=612x612&w=0&k=20&c=X71eV4VGpZhO8lVpIsg7lMv4gJgGRvmz2szN8BmgsPs=" 
         class="card-img-top" alt="..."/>
         <div class="card-body">
-            <h5 class="card-title">6ºA - Atividade 1</h5>
-                <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
+            <h5 class="card-title">9ºANO</h5>
+                <p class="card-text">Para acessar as atividades da sua turma clique no botão abaixo.</p>
                     <a class="btn btn-dark" target='_blank' href='https://drive.google.com/file/d/1R4GScyufYgIJ-zz5tPGVVS7bUVMrAa1g/view?usp=share_link'>
-                        Atividade 4
+                        Atividades
                     </a>
         </div>
     </div>

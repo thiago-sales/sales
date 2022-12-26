@@ -11,7 +11,7 @@ const Ingles = () => {
         <div class="card-body">
             <h5 class="card-title">6ºANO</h5>
                 <p class="card-text">Para acessar as atividades da sua turma clique no botão abaixo.</p>
-                    <a class="btn btn-dark" target='_blank' href='https://drive.google.com/file/d/1R4GScyufYgIJ-zz5tPGVVS7bUVMrAa1g/view?usp=share_link'>
+                    <a class="btn btn-dark" target='_blank' href='https://drive.google.com/drive/folders/1SL4fyaWi22753wTDthnjWT34kexp3o_y?usp=share_link'>
                         Atividades
                     </a>
         </div>

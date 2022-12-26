@@ -11,7 +11,7 @@ const Home = () => {
         class="card-img-top" alt="..."/>
         <div class="card-body">
             <h5 class="card-title">Inglês</h5>
-                <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
+                <p class="card-text">Clique no botão abaixo para acessar as atividades de Inglês.</p>
                     <a class="btn btn-dark" target='_blank' href='/ingles'>
                         Atividades
                     </a>
@@ -24,7 +24,7 @@ const Home = () => {
         class="card-img-top" alt="..."/>
         <div class="card-body">
             <h5 class="card-title">Espanhol</h5>
-                <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
+                <p class="card-text">Clique no botão abaixo para acessar as atividades de Espanhol.</p>
                     <a class="btn btn-dark" target='_blank' href='/espanhol'>
                         Atividades
                     </a>
@@ -37,7 +37,7 @@ const Home = () => {
         class="card-img-top" alt="..."/>
         <div class="card-body">
             <h5 class="card-title">Flauta Doce</h5>
-                <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
+                <p class="card-text">Clique no botão abaixo para acessar as atividades de Flauta Doce.</p>
                     <a class="btn btn-dark" target='_blank' href='#'>
                         Atividades
                     </a>
@@ -50,7 +50,7 @@ const Home = () => {
         class="card-img-top" alt="..."/>
         <div class="card-body">
             <h5 class="card-title">Canto</h5>
-                <p class="card-text">Esta atividade deve ser entregue até segunda feira 30/11/2022.</p>
+                <p class="card-text">Clique no botão abaixo para acessar as atividades de Canto.</p>
                     <a class="btn btn-dark" target='_blank' href='#'>
                         Atividades
                     </a>

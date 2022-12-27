@@ -57,6 +57,32 @@ const Home = () => {
         </div>
     </div>
   </div>
+  <div class="col">
+    <div class="card">
+      <img src="https://static.wixstatic.com/media/3fb569_587581cb510247afa791833b59c47a4c.jpg/v1/fill/w_582,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/3fb569_587581cb510247afa791833b59c47a4c.jpg" 
+        class="card-img-top" alt="..."/>
+        <div class="card-body">
+            <h5 class="card-title">Violino</h5>
+                <p class="card-text">Clique no botão abaixo para acessar as atividades de Violino.</p>
+                    <a class="btn btn-dark" target='_blank' href='#'>
+                        Atividades
+                    </a>
+        </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="https://media.istockphoto.com/id/500703058/pt/foto/plano-aproximado-de-mulher-a-tocar-uma-guitarra.jpg?s=612x612&w=0&k=20&c=kNzRggH_jCGYNz4enjepBg_3NzwzPZi82tsu3LLqw4w=" 
+        class="card-img-top" alt="..."/>
+        <div class="card-body">
+            <h5 class="card-title">Violão</h5>
+                <p class="card-text">Clique no botão abaixo para acessar as atividades de Violão.</p>
+                    <a class="btn btn-dark" target='_blank' href='#'>
+                        Atividades
+                    </a>
+        </div>
+    </div>
+  </div>
 
 
 

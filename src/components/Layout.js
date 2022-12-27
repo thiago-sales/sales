@@ -38,6 +38,11 @@ const Layout = () =>{
           </Link>
         </li>
         <li class="nav-item">
+        <Link to='/violino' className='link-nav'>
+          <a class="nav-link" id='link-nav'>Violino</a>
+          </Link>
+        </li>
+        <li class="nav-item">
         <Link to='/sobre' className='link-nav'>
           <a class="nav-link" id='link-nav'>Sobre</a>
           </Link>

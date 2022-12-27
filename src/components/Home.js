@@ -65,7 +65,7 @@ const Home = () => {
             <h5 class="card-title">Violino</h5>
                 <p class="card-text">Clique no botão abaixo para acessar as atividades de Violino.</p>
                     <a class="btn btn-dark" target='_blank' href='#'>
-                        Atividades
+                        Em breve
                     </a>
         </div>
     </div>
@@ -78,7 +78,7 @@ const Home = () => {
             <h5 class="card-title">Violão</h5>
                 <p class="card-text">Clique no botão abaixo para acessar as atividades de Violão.</p>
                     <a class="btn btn-dark" target='_blank' href='#'>
-                        Atividades
+                        Em breve
                     </a>
         </div>
     </div>

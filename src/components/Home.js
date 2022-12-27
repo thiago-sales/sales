@@ -33,26 +33,26 @@ const Home = () => {
   </div>
   <div class="col">
     <div class="card">
-      <img src="http://pensaraeducacao.com.br/rbeducacaobasica/wp-content/uploads/sites/5/2017/10/M%C3%A3os-de-uma-crian%C3%A7a-tocando-flauta_destaque_texto01_n%C3%BAmero6_RBEB-redimensionada.jpg" 
+      <img src="https://www.reviewbox.com.br/wp-content/uploads/2019/06/mulher-tocando-flauta-1024x742.jpg" 
         class="card-img-top" alt="..."/>
         <div class="card-body">
             <h5 class="card-title">Flauta Doce</h5>
-                <p class="card-text">Clique no botão abaixo para acessar as atividades de Flauta Doce.</p>
+                <p class="card-text">Em breve.</p>
                     <a class="btn btn-dark" target='_blank' href='#'>
-                        Atividades
+                        Em breve
                     </a>
         </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
-      <img src="https://img.freepik.com/fotos-gratis/cantora-com-microfone-cantando-em-estudio_1303-26961.jpg?size=626&ext=jpg" 
+      <img src="https://media.istockphoto.com/id/1203055156/pt/foto/condenser-black-studio-microphone-on-a-black-background-streamer-podcasts-music-background.jpg?s=612x612&w=0&k=20&c=r1xAgIj24um5qVoPxUskNC1OtazhO6tp1pnx6143Yz0=" 
         class="card-img-top" alt="..."/>
         <div class="card-body">
             <h5 class="card-title">Canto</h5>
-                <p class="card-text">Clique no botão abaixo para acessar as atividades de Canto.</p>
+                <p class="card-text">Em breve.</p>
                     <a class="btn btn-dark" target='_blank' href='#'>
-                        Atividades
+                        Em breve
                     </a>
         </div>
     </div>
@@ -63,7 +63,7 @@ const Home = () => {
         class="card-img-top" alt="..."/>
         <div class="card-body">
             <h5 class="card-title">Violino</h5>
-                <p class="card-text">Clique no botão abaixo para acessar as atividades de Violino.</p>
+                <p class="card-text">Em breve.</p>
                     <a class="btn btn-dark" target='_blank' href='#'>
                         Em breve
                     </a>
@@ -76,7 +76,7 @@ const Home = () => {
         class="card-img-top" alt="..."/>
         <div class="card-body">
             <h5 class="card-title">Violão</h5>
-                <p class="card-text">Clique no botão abaixo para acessar as atividades de Violão.</p>
+                <p class="card-text">Em breve.</p>
                     <a class="btn btn-dark" target='_blank' href='#'>
                         Em breve
                     </a>

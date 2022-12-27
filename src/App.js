@@ -7,6 +7,9 @@ import Sobre from './components/Sobre';
 import Ingles from './components/Ingles';
 import Espanhol from './components/Espanhol';
 import Violino from './components/Violino';
+import Violao from './components/Violao';
+import Canto from './components/Canto';
+import FlautaDoce from './components/FlautaDoce';
 import './App.css';
 
 
@@ -19,6 +22,9 @@ function Router(){
           <Route path='ingles' element={<Ingles />} />
           <Route path='espanhol' element={<Espanhol />} />
           <Route path='violino' element={<Violino />} />
+          <Route path='violao' element={<Violao />} />
+          <Route path='canto' element={<Canto />} />
+          <Route path='flautadoce' element={<FlautaDoce />} />
           <Route path='blog' element={<Blog />} />
           <Route path='contato' element={<Contato />} />
           <Route path='sobre' element={<Sobre />} />
